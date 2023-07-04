@@ -1,0 +1,9 @@
+nptyping
+numpy
+pandas
+pyarrow
+pywin32
+rich
+scipy
+statsmodels
+wget
