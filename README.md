@@ -1,6 +1,6 @@
 # **arima-ercot-2021-opendss**
 
-This repository contains the source code for generating the **arima-ercot-2021** data suite and is available on [Kaggle](https://www.kaggle.com/datasets/msk5sdata/arima-ercot-2021). 
+This repository contains the source code for generating the [`arima-ercot-2021`](https://www.kaggle.com/datasets/msk5sdata/arima-ercot-2021) data suite.
 
 The data suite contains voltage magnitude datasets from the following test feeders:
 - [Electric Power Research Institute's (EPRI)](https://www.epri.com/) `ckt5` test feeder circuit. `ckt5` is a radial network with 1379 single-phase wye-connected loads.
